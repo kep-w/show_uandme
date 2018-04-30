@@ -1,2 +1,2 @@
 # show_uandme
-use js to show love
+use js to show
